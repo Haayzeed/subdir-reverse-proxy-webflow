@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "/help",
-  assetPrefix: "/help",
+  basePath: "/bank-codes",
+  assetPrefix: "/bank-codes",
 };
 
 module.exports = nextConfig;
